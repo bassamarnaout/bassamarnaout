@@ -1,4 +1,4 @@
-## 👋 About Me
+## Hi, I'm Bassam Arnaout 👋
 
 I’m a **Senior Software Engineer** with strong expertise in **Python**, **data-driven systems**, and **enterprise automation**, currently focused on **AI Engineering and Applied Machine Learning**.
 
@@ -13,6 +13,10 @@ My professional background includes building **production-grade automation and b
 I’m actively transitioning into **AI Engineer / Applied ML / Data Scientist roles**, with a strong focus on **practical, end-to-end AI systems**—from data ingestion to user-facing applications.
 
 ---
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/bassam-arnaout
+- Email: bassamarnaout@outlook.com
 
 ## 🔍 Core Focus Areas
 - AI Engineering & Applied Machine Learning  
