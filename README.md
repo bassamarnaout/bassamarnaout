@@ -10,13 +10,9 @@ I design and build **intelligent systems** such as:
 
 My professional background includes building **production-grade automation and business logic** for large ERP systems (not demos), which enables me to develop **AI solutions grounded in real operational constraints**.
 
-I’m actively transitioning into **AI Engineer / Applied ML / Data Scientist roles**, with a strong focus on **practical, end-to-end AI systems**—from data ingestion to user-facing applications.
+I’m actively into **AI Engineer / Applied ML / Data Scientist roles**, with a strong focus on **practical, end-to-end AI systems**—from data ingestion to user-facing applications.
 
 ---
-
-## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/bassam-arnaout
-- Email: bassamarnaout@outlook.com
 
 ## 🔍 Core Focus Areas
 - AI Engineering & Applied Machine Learning  
@@ -29,22 +25,6 @@ I’m actively transitioning into **AI Engineer / Applied ML / Data Scientist ro
 
 ## 🎯 Career Goal
 Build **scalable AI solutions** that automate real business workflows and deliver measurable impact.
-
-
-
-# Hi, I'm Bassam Arnaout 👋
-
-Senior Software Engineer | Python | AI & Data Science
-
-🚀 I build intelligent systems, automation tools, and AI-powered applications.
-🎯 Currently transitioning into AI / Machine Learning roles.
-
-## 🧠 Skills
-- Python, SQL
-- Machine Learning, NLP, RAG Systems
-- Streamlit, FastAPI
-- Pandas, NumPy, Scikit-learn
-- Git, Docker
 
 ## 📌 Featured Projects
 - 🔍 RAG System for ERP Knowledge Automation
