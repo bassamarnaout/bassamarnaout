@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Bassam 👋
 
-<!--
-**bassamarnaout/bassamarnaout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer | Python | AI & Data Science
 
-Here are some ideas to get you started:
+🚀 I build intelligent systems, automation tools, and AI-powered applications.
+🎯 Currently transitioning into AI / Machine Learning roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Python, SQL
+- Machine Learning, NLP, RAG Systems
+- Streamlit, FastAPI
+- Pandas, NumPy, Scikit-learn
+- Git, Docker
+
+## 📌 Featured Projects
+- 🔍 RAG System for ERP Knowledge Automation
+- 🤖 AI Assistant for Sage 300 Extender Scripts
+- 📊 Data Analysis & ML Projects
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: your@email.com
