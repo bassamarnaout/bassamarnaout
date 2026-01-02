@@ -18,5 +18,5 @@ Senior Software Engineer | Python | AI & Data Science
 - 📊 Data Analysis & ML Projects
 
 ## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/bassamarnaout
+- LinkedIn: https://linkedin.com/in/bassam-arnaout
 - Email: bassamarnaout@outlook.com
