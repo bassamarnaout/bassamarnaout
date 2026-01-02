@@ -1,4 +1,4 @@
-# Hi, I'm Bassam 👋
+# Hi, I'm Bassam Arnaout 👋
 
 Senior Software Engineer | Python | AI & Data Science
 
@@ -14,7 +14,7 @@ Senior Software Engineer | Python | AI & Data Science
 
 ## 📌 Featured Projects
 - 🔍 RAG System for ERP Knowledge Automation
-- 🤖 AI Assistant for Sage 300 Extender Scripts
+- 🤖 AI Assistant for Sage 300 Extender Scripts Code Generation
 - 📊 Data Analysis & ML Projects
 
 ## 📫 Connect with Me
