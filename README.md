@@ -12,7 +12,6 @@ My professional background includes building **production-grade automation and b
 
 I’m actively into **AI Engineer / Applied ML / Data Scientist roles**, with a strong focus on **practical, end-to-end AI systems**—from data ingestion to user-facing applications.
 
----
 
 ## 🔍 Core Focus Areas
 - AI Engineering & Applied Machine Learning  
@@ -21,7 +20,6 @@ I’m actively into **AI Engineer / Applied ML / Data Scientist roles**, with a 
 - Python backend development  
 - Data processing & analytics  
 
----
 
 ## 🎯 Career Goal
 Build **scalable AI solutions** that automate real business workflows and deliver measurable impact.
